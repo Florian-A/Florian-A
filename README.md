@@ -19,7 +19,7 @@ Feel free to come and discuss these topics with me !
 
 <h2></h2>
 
-### GitHub activity :
+### My activity :
 
 <center>
   <table>
