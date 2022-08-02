@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florian-a-dev/)](https://www.linkedin.com/in/florian-a-dev/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/florian-a/)](https://github.com/florian-a/)  [![Website Badge](https://img.shields.io/badge/-Portfolio-888888?style=flat&logo=Google-Chrome&logoColor=white&link=https://florian-a.dev)](https://florian-a.dev) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:git@florian-a.dev)](mailto:jessicalim813@gmail.com) ![](https://komarev.com/ghpvc/?username=Florian-A)
 
-I am currently a student at the 42 Auvergne Rhones Alpes school and I mainly do projects in C and C++.
+I am currently a student at [42 Lyon Auvergne-Rhône-Alpes](https://42lyon.fr/) and I mainly do projects in C and C++.
 
 I like a lot of things, history, innovation and start-ups.
 
