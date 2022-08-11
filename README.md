@@ -1,4 +1,4 @@
-<img src="./42ara.jpg"></img>
+<img src="./42lyon.jpg"></img>
 
 <h1 align="center">Hello everyone !</h1>
 
