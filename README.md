@@ -1,3 +1,5 @@
+<img src="./42ara.jpg"></img>
+
 <h1 align="center">Hello everyone !</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florian-a-dev/)](https://www.linkedin.com/in/florian-a-dev/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/florian-a/)](https://github.com/florian-a/)  [![Website Badge](https://img.shields.io/badge/-Portfolio-888888?style=flat&logo=Google-Chrome&logoColor=white&link=https://florian-a.dev)](https://florian-a.dev) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:git@florian-a.dev)](mailto:git@florian-a.dev) ![](https://komarev.com/ghpvc/?username=Florian-A)
