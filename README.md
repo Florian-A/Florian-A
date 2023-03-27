@@ -4,12 +4,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florian-a-dev/)](https://www.linkedin.com/in/florian-a-dev/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/florian-a/)](https://github.com/florian-a/)  [![Website Badge](https://img.shields.io/badge/-Portfolio-888888?style=flat&logo=Google-Chrome&logoColor=white&link=https://florian-a.dev)](https://florian-a.dev) [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:git@florian-a.dev)](mailto:git@florian-a.dev) ![](https://komarev.com/ghpvc/?username=Florian-A)
 
-I am currently a student at [42 Lyon Auvergne-Rhône-Alpes](https://42lyon.fr/) and I mainly do projects in C and C++.
+Hey there, I'm a student at [42 Lyon Auvergne-Rhône-Alpes](https://42lyon.fr/), diving deep into the world of C and C++ programming. 
 
-I like a lot of things, history, innovation and start-ups.
+I love taking on challenges and pushing my skills to the limit. But my interests don't stop there, I'm also a big fan of history, innovation, and start-ups. 
 
-Feel free to come and discuss these topics with me !
+If you're looking for a passionate and driven individual to collaborate on your next project, don't hesitate to reach out.
 
+Let's explore the endless possibilities together!
 <h2></h2>
 
 ### My skills :
