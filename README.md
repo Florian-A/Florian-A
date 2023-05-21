@@ -1,4 +1,4 @@
-<img src="./image.jpg"></img>
+<img src="./image.jpeg"></img>
 
 <h1 align="center">Hello everyone !</h1>
 
