@@ -21,14 +21,3 @@ Let's explore the endless possibilities together!
 ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS3)&nbsp; ![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp; ![React](https://img.shields.io/badge/-React-555?style=flat&logo=react)&nbsp; ![Photoshop](https://img.shields.io/badge/-Photoshop-555?style=flat&logo=adobe-photoshop)&nbsp;
 
 <h2></h2>
-
-### My activity :
-
-<center>
-  <table>
-    <tr>
-        <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florian-a&hide=html,css,php,scss%20Notebook&layout=compact&count_private=true&langs_count=7" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=florian-a&show_icons=true&count_private=true" /></td>
-    </tr>   
-  </table>
-</center>
