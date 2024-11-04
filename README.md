@@ -1,2 +1,2 @@
-<img src="./image.jpeg"></img>
+<img src="./why.png"></img>
 
